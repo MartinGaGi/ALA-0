@@ -1,4 +1,4 @@
-#EJERCICIO 1#
+#EJERCICIO 1
 
 LENGUAJE CONSIDERADO: C
 
@@ -39,7 +39,7 @@ Software de alto rendimiento: motores de bases de datos, compiladores, sistemas 
 No es ideal, en cambio, para desarrollo web rápido, aplicaciones con mucha lógica de negocio donde la velocidad de desarrollo importa más que la eficiencia, o proyectos donde el equipo prioriza seguridad automática sobre control manual.
 
 
-#EJERCICIO 2#
+#EJERCICIO 2
 
 LENGUAJE CONSIDERADO: C
 
