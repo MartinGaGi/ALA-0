@@ -1,4 +1,5 @@
 #EJERCICIO 1#
+
 LENGUAJE CONSIDERADO: C
 
 1. Generalización simbólica (reglas escritas del lenguaje)
@@ -39,6 +40,7 @@ No es ideal, en cambio, para desarrollo web rápido, aplicaciones con mucha lóg
 
 
 #EJERCICIO 2#
+
 LENGUAJE CONSIDERADO: C
 
 
